@@ -8,3 +8,4 @@ Day|Date|Question|Level|Link|Notes|
 3|20210809|Longest Common Prefix|Easy|https://leetcode.com/problems/longest-common-prefix/|`zip(*list)`|
 4|20210810|Valid parentheses|Easy|https://leetcode.com/problems/valid-parentheses/|`list.pop()`|
 5|20210811|Implement strStr()|Easy|https://leetcode.com/problems/implement-strstr/||
+6|20210812|Maximum Subarray|Easy|https://leetcode.com/problems/maximum-subarray/||
