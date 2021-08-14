@@ -9,3 +9,4 @@ Day|Date|Question|Level|Link|Notes|
 4|20210810|Valid parentheses|Easy|https://leetcode.com/problems/valid-parentheses/|`list.pop()`|
 5|20210811|Implement strStr()|Easy|https://leetcode.com/problems/implement-strstr/||
 6|20210812|Maximum Subarray|Easy|https://leetcode.com/problems/maximum-subarray/||
+7|20210813|Plus One|Easy|https://leetcode.com/problems/plus-one/||
