@@ -10,3 +10,4 @@ Day|Date|Question|Level|Link|Notes|
 5|20210811|Implement strStr()|Easy|https://leetcode.com/problems/implement-strstr/||
 6|20210812|Maximum Subarray|Easy|https://leetcode.com/problems/maximum-subarray/||
 7|20210813|Plus One|Easy|https://leetcode.com/problems/plus-one/||
+8|20210814|Sqrt(x)|Easy|https://leetcode.com/problems/sqrtx/submissions/||
