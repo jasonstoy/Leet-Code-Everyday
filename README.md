@@ -12,3 +12,4 @@ Day|Date|Question|Level|Link|Notes|
 7|20210813|Plus One|Easy|https://leetcode.com/problems/plus-one/||
 8|20210814|Sqrt(x)|Easy|https://leetcode.com/problems/sqrtx/submissions/||
 9|20210815|Climbing Stairs|Easy|https://leetcode.com/problems/climbing-stairs/||
+10|20210816|Merge Sorted Array|Easy|https://leetcode.com/problems/merge-sorted-array/||
