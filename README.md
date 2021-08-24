@@ -18,3 +18,4 @@ Day|Date|Question|Level|Link|Notes|
 13|20210819|Excel Sheet Column Number|Easy|https://leetcode.com/problems/excel-sheet-column-number/||
 14|20210820|Move Zeroes|Easy|https://leetcode.com/problems/move-zeroes/|swap|
 15|20210821|Contains Duplicate|Easy|https://leetcode.com/problems/contains-duplicate/||
+16|20210823|Count Primes|Easy|https://leetcode.com/problems/count-primes/||
