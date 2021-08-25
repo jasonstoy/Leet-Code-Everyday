@@ -19,3 +19,4 @@ Day|Date|Question|Level|Link|Notes|
 14|20210820|Move Zeroes|Easy|https://leetcode.com/problems/move-zeroes/|swap|
 15|20210821|Contains Duplicate|Easy|https://leetcode.com/problems/contains-duplicate/||
 16|20210823|Count Primes|Easy|https://leetcode.com/problems/count-primes/||
+17|20210824|Longest Substring without Repeating Characters|Medium|https://leetcode.com/problems/longest-substring-without-repeating-characters/||
