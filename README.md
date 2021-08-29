@@ -21,4 +21,5 @@ Day|Date|Question|Level|Link|Notes|
 16|20210823|Count Primes|Easy|https://leetcode.com/problems/count-primes/|?|
 17|20210824|Longest Substring without Repeating Characters|Medium|https://leetcode.com/problems/longest-substring-without-repeating-characters/||
 18|20210825|Reverse String|Easy|https://leetcode.com/problems/reverse-string/||
-19|20210826|Power of Three|Easy||https://leetcode.com/problems/power-of-three/||
+19|20210826|Power of Three|Easy|https://leetcode.com/problems/power-of-three/||
+20|20210828|First Unique Character in a String|Easy|https://leetcode.com/problems/first-unique-character-in-a-string/||
