@@ -24,3 +24,4 @@ Day|Date|Question|Level|Link|Notes|
 19|20210826|Power of Three|Easy|https://leetcode.com/problems/power-of-three/||
 20|20210828|First Unique Character in a String|Easy|https://leetcode.com/problems/first-unique-character-in-a-string/||
 21|20210829|Valid Anagram|Easy|https://leetcode.com/problems/valid-anagram/||
+22|20210830|Missing Number|Easy|https://leetcode.com/problems/missing-number/||
