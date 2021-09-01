@@ -25,3 +25,4 @@ Day|Date|Question|Level|Link|Notes|
 20|20210828|First Unique Character in a String|Easy|https://leetcode.com/problems/first-unique-character-in-a-string/||
 21|20210829|Valid Anagram|Easy|https://leetcode.com/problems/valid-anagram/||
 22|20210830|Missing Number|Easy|https://leetcode.com/problems/missing-number/||
+23|20210831|Generate Parentheses|Medium|https://leetcode.com/problems/generate-parentheses/||
