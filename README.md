@@ -26,3 +26,4 @@ Day|Date|Question|Level|Link|Notes|
 21|20210829|Valid Anagram|Easy|https://leetcode.com/problems/valid-anagram/||
 22|20210830|Missing Number|Easy|https://leetcode.com/problems/missing-number/||
 23|20210831|Generate Parentheses|Medium|https://leetcode.com/problems/generate-parentheses/||
+24|20210901|Fizz Buzz|Easy|https://leetcode.com/problems/fizz-buzz/||
