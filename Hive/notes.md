@@ -1,7 +1,9 @@
 ## Hive Notes
 
 1. HDFS Command
+---
 Command|Comments|
+ ----------- | ----------- |
 `hadoop fs –mkdir /user/lab `| create a directory on hdfs|
 `hadoop fs –ls /user/lab `| list the files in the directory
 `hadoop fs –put myFile.txt /user/lab `| move a file from local fs to hdfs|
@@ -10,3 +12,4 @@ Command|Comments|
 `hadoop fs –rmdir /user/lab ``| remove a directory on hdfs|
 
 2. Hive
+---
