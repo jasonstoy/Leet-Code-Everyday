@@ -17,8 +17,7 @@ Command|Comments|
 
 HiveQL Description | Script|
  ----------- | ----------- |
-Create tab-delimited table|
-```
+Create tab-delimited table| <code>
 create table full_text (
 id string,
 ts string,
@@ -27,13 +26,13 @@ lat string,
 lon string,
 tweet string)
 row format delimited
-fields terminated by '\t' ;```|
+fields terminated by '\t' ;</code>|
 
 Load data in HDFS into hive table |
-```load data inpath '/user/lab/twitter/'
-overwrite into table twitter.full_text;```|
+<code>load data inpath '/user/lab/twitter/'
+overwrite into table twitter.full_text;</code>|
 
 Create table and load table in one query|
-```create table full_text_2 as
+<code>|create table full_text_2 as
 select *
-from twitter.full_text;```|
+from twitter.full_text;</code>|
