@@ -15,12 +15,12 @@ Command|Comments|
 2. Hive
 - create tab-delimited table
 <code>
-create table full_text (  
-id string,  
-ts string,  
-lat_lon string,  
-lat string,  
-lon string,  
-tweet string)  
-row format delimited  
-fields terminated by '\t' ; </code>
+create table full_text (
+  id string,
+  ts string,
+  lat_lon string,
+  lat string,
+  lon string,
+  tweet string)
+  row format delimited
+  fields terminated by '\t' ; </code>
