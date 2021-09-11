@@ -16,11 +16,11 @@ Command|Comments|
 - create tab-delimited table
 <code>
 create table full_text (
-  id string,
-  ts string,
-  lat_lon string,
-  lat string,
-  lon string,
-  tweet string)
-  row format delimited
-  fields terminated by '\t' ; </code>
+    id string,
+    ts string,
+    lat_lon string,
+    lat string,
+    lon string,
+    tweet string)
+    row format delimited
+    fields terminated by '\t' ; </code>
